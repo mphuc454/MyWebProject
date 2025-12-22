@@ -1,0 +1,15 @@
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\obj\Debug\net10.0\ConsoleApp.sourcelink.json
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+D:\ThuMucCuaTui\Programmer\MyWebProject\CSharpProject\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
