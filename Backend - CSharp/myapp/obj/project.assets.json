@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ThuMucCuaTui\\Programmer\\MyWebProject\\Backend - CSharp\\myapp\\myapp\\myapp.csproj",
+      "projectUniqueName": "D:\\ThuMucCuaTui\\Programmer\\MyWebProject\\Backend - CSharp\\myapp\\myapp.csproj",
       "projectName": "myapp",
-      "projectPath": "D:\\ThuMucCuaTui\\Programmer\\MyWebProject\\Backend - CSharp\\myapp\\myapp\\myapp.csproj",
+      "projectPath": "D:\\ThuMucCuaTui\\Programmer\\MyWebProject\\Backend - CSharp\\myapp\\myapp.csproj",
       "packagesPath": "C:\\Users\\mphuc\\.nuget\\packages\\",
-      "outputPath": "D:\\ThuMucCuaTui\\Programmer\\MyWebProject\\Backend - CSharp\\myapp\\myapp\\obj\\",
+      "outputPath": "D:\\ThuMucCuaTui\\Programmer\\MyWebProject\\Backend - CSharp\\myapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

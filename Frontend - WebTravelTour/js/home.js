@@ -1,4 +1,4 @@
-let a = -10.5
-let b = "30"
-let c = String(a)
-console.log(typeof (a + c));
+let a = "Day doan van text";
+// let chuoi = a.slice(0,3);
+let chuoi = a.slice(-4,)
+console.log(chuoi)
